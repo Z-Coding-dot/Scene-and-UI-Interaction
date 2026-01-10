@@ -1,9 +1,4 @@
 # Scene and UI Interaction
-
-## Course
-
-Introduction to Game Development
-
 ## Project Description
 
 This project demonstrates basic scene management and user interface interaction in Unity using a 2D (URP) setup. The project contains a main menu scene and a gameplay scene, connected through UI buttons.
