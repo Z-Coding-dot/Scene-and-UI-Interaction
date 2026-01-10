@@ -1,8 +1,6 @@
 # Scene and UI Interaction
 
-## Course
-
-Introduction to Game Development
+![Scene Navigation](Assets/image.png)
 
 ## Project Description
 
