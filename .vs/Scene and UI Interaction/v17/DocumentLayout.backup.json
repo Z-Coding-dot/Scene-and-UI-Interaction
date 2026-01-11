@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ziaulhaq Parsa\\OneDrive\\Desktop\\Game Development\\Assigment 1\\Scene and UI Interaction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D36D0875-08BB-9C84-56A3-18BABAE16DAD}|Assembly-CSharp.csproj|c:\\users\\ziaulhaq parsa\\onedrive\\desktop\\game development\\assigment 1\\scene and ui interaction\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36D0875-08BB-9C84-56A3-18BABAE16DAD}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Ziaulhaq Parsa\\OneDrive\\Desktop\\Game Development\\Assigment 1\\Scene and UI Interaction\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Ziaulhaq Parsa\\OneDrive\\Desktop\\Game Development\\Assigment 1\\Scene and UI Interaction\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T18:47:27.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
